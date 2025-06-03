@@ -3,7 +3,7 @@ import type { Metadata } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "MathanGo Project",
+  title: "MathonGo Project",
   description: "A Next.js project with Tailwind CSS and TypeScript",
 }
 
